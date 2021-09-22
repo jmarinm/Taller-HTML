@@ -1,0 +1,28 @@
+/* Add your styles here */
+
+h1 {
+  text-align: center;
+  background-color: rgb(210, 179, 178);
+}
+h2{
+  text-align: center;
+}
+p {
+  font: 200% Brush Script MT, serif;
+}
+form{
+  font-size: 200%;
+}
+
+.fb{
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+div{
+  background-color: rgb(210, 179, 178);
+}
